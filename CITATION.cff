@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use PocketBox in research or a project, please cite the repository release you used."
+title: "PocketBox"
+type: software
+version: 0.3.1
+date-released: 2026-10-30
+license: MIT
